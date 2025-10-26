@@ -118,12 +118,12 @@ dependencies:
 ## 📱 App Demonstration
 
 ### 1. Splash Screen
-<img src="screenshots/gimg1.png" width="300" alt="Splash Screen">
+<img src="images/gimg1.jpeg" width="575" alt="Splash Screen">
 
 ---
 
 ### 2. Login Screen
-<img src="screenshots/gimg2.png" width="300" alt="Login Screen">
+<img src="images/gimg2.jpeg" width="575" alt="Login Screen">
 
 **Features:**
 - Two input fields:
@@ -141,7 +141,7 @@ dependencies:
 ---
 
 ### 3. Barcode Scanner - Active Scanning
-<img src="screenshots/gimg3.png" width="300" alt="Barcode Scanner">
+<img src="images/gimg3.jpeg" width="575" alt="Barcode Scanner">
 
 **Real-time Barcode Scanning:**
 - Full-screen camera interface for scanning barcodes
@@ -161,7 +161,7 @@ dependencies:
 ---
 
 ### 4. Attendance Confirmation Dialog
-<img src="screenshots/gimg4.png" width="300" alt="Confirm Attendance">
+<img src="images/gimg4.jpeg" width="575" alt="Confirm Attendance">
 
 **Attendance Verification Screen:**
 
@@ -184,7 +184,7 @@ This dialog ensures accuracy before marking attendance and allows staff to verif
 ---
 
 ### 5. Today's Attendance - Present List
-<img src="screenshots/gimg5.png" width="300" alt="Present Attendance List">
+<img src="images/gimg5.jpeg" width="575" alt="Present Attendance List">
 
 **Daily Attendance Dashboard:**
 
@@ -209,7 +209,7 @@ Each card shows:
 ---
 
 ### 6. Duplicate Detection Alert
-<img src="screenshots/gimg6.png" width="300" alt="Duplicate Alert">
+<img src="images/gimg6.jpeg" width="575" alt="Duplicate Alert">
 
 **Duplicate Prevention System:**
 
@@ -231,7 +231,7 @@ The dialog appears over the active barcode scanner screen, preventing any furthe
 ---
 
 ### 7. Today's Attendance - Absent List
-<img src="screenshots/gimg7.png" width="300" alt="Absent Attendance List">
+<img src="images/gimg7.jpeg" width="575" alt="Absent Attendance List">
 
 **Absent Beneficiaries View:**
 
@@ -245,7 +245,7 @@ The dialog appears over the active barcode scanner screen, preventing any furthe
 ---
 
 ### 8. Date Picker - Historical Attendance
-<img src="screenshots/gimg8.png" width="300" alt="Date Picker">
+<img src="images/gimg8.jpeg" width="575" alt="Date Picker">
 
 **Historical Data Access:**
 
@@ -265,7 +265,7 @@ The dialog appears over the active barcode scanner screen, preventing any furthe
 ---
 
 ### 9. Women List - All Beneficiaries
-<img src="screenshots/gimg9.png" width="300" alt="Women List">
+<img src="images/gimg9.jpeg" width="575" alt="Women List">
 
 **Complete Beneficiary Database:**
 
@@ -285,7 +285,7 @@ Each card contains:
 ---
 
 ### 10. Individual Beneficiary Profile (Part 1)
-<img src="screenshots/gimg10.png" width="300" alt="Beneficiary Profile Top">
+<img src="images/gimg10.jpeg" width="575" alt="Beneficiary Profile Top">
 
 **Detailed Profile View - Personal Information:**
 
@@ -315,7 +315,7 @@ Each card contains:
 ---
 
 ### 11. Individual Beneficiary Profile (Part 2)
-<img src="screenshots/gimg11.png" width="300" alt="Beneficiary Profile Bottom">
+<img src="images/gimg11.jpeg" width="575" alt="Beneficiary Profile Bottom">
 
 **Detailed Profile View - Barcode & Attendance:**
 
