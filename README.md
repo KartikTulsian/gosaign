@@ -315,7 +315,7 @@ Each card contains:
 ---
 
 ### 11. Individual Beneficiary Profile (Part 2)
-<img src="images/gimg11.jpeg" width="575" alt="Beneficiary Profile Bottom">
+<img src="images/gimg11.jpeg" width="300" height="575" alt="Beneficiary Profile Bottom">
 
 **Detailed Profile View - Barcode & Attendance:**
 
